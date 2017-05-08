@@ -22,6 +22,9 @@ They show which commits are accessible from where.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+A new commit with both branch tips as parents. Because we can access all commits from both.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+It can put together two branches with potentially numerous changes. 
+It requires trust and possible conflicts later on?
