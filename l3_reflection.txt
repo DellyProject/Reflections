@@ -31,4 +31,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are working on an experimental feature that might not be included in the 
+	software being built, but also to slow down the process of introducing errors and bugs.
+	Making changes in master has an immediate impact on the software that gets shipped.
+	Making changes in a branch allows collaborators to review and help in a way that is focused
+	on the goal of that branch. The branch is a way of focussing on a specific feature.
