@@ -18,12 +18,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It remembers where the remote repository was and so you can compare.
+	It is nice to keep this copy updated as much as possible, which keeps you in the know.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Using Google Drive and Chat. I think that now that I have learned a lot about using GitHub, 
+	it would be easier to use GitHub. Definitely better thatn Google Drive, but a bit more 
+	complicated which would be troublesome if the people I am working with don't use Git.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
